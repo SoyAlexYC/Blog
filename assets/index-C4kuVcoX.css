@@ -1,0 +1,1 @@
+.card{display:flex;flex-direction:column;position:relative;background-color:#0e83b291;box-shadow:0 20px 50px #00000014;border-radius:36px;padding:8px;width:30vw}.home{display:flex;flex-direction:row;justify-content:space-between}nav{background-color:#222;padding:1rem}nav ul{display:flex;gap:1rem;list-style:none}nav a{color:#fff;text-decoration:none}
